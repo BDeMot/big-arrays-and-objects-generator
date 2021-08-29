@@ -1,4 +1,8 @@
-# big-arrays-and-objects-generator
+# bigArraysAndObjects-inator
+The Big Arrays and Objects Generator.
+
+<br>
+<br>
 Generate Numbers or Strings to populate big Arrays or big Objects.
 
 Since I like to test all those JS snippets, tricks to 'do stuff in a super efficient way' that we found all over the web, I always had to write and rewrite those few lines of code. Until now.
